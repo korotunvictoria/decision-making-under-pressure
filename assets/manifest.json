@@ -1,0 +1,356 @@
+[
+  {
+    "file": "office-legal.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "Визуал курса.pptx / image1.png"
+  },
+  {
+    "file": "office-desk.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "Визуал курса.pptx / image3.png"
+  },
+  {
+    "file": "office-meeting.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "Визуал курса.pptx / image4.png"
+  },
+  {
+    "file": "office-corridor.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "Визуал курса.pptx / image5.png"
+  },
+  {
+    "file": "oleg-listens.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image2.png"
+  },
+  {
+    "file": "oleg-explains.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image6.png"
+  },
+  {
+    "file": "oleg-checks.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image7.png"
+  },
+  {
+    "file": "vika-waits.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image8.png"
+  },
+  {
+    "file": "vika-urges.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image9.png"
+  },
+  {
+    "file": "vika-reads.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image10.png"
+  },
+  {
+    "file": "irina-demands.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image11.png"
+  },
+  {
+    "file": "irina-listens.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image12.png"
+  },
+  {
+    "file": "irina-agrees.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image13.png"
+  },
+  {
+    "file": "director-reads.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image14.png"
+  },
+  {
+    "file": "director-calls.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image15.png"
+  },
+  {
+    "file": "director-agrees.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image16.png"
+  },
+  {
+    "file": "katya-notices.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image17.png"
+  },
+  {
+    "file": "katya-shows.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image18.png"
+  },
+  {
+    "file": "katya-checks.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image19.png"
+  },
+  {
+    "file": "pasha-offers.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image20.png"
+  },
+  {
+    "file": "pasha-shows.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image21.png"
+  },
+  {
+    "file": "pasha-agrees.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image22.png"
+  },
+  {
+    "file": "nina-leaves.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image23.png"
+  },
+  {
+    "file": "nina-checks.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image24.png"
+  },
+  {
+    "file": "nina-signs.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha": true,
+    "source": "Визуал курса.pptx / image25.png"
+  },
+  {
+    "file": "office-standing.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "imagegen, встроенный режим; промпт: Иллюстрации_правки3_промпты.txt"
+  },
+  {
+    "file": "cover-launch.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "imagegen, встроенный режим; промпт: Иллюстрации_редакция5_промпты.txt",
+    "references": [
+      "vika-urges.webp",
+      "pasha-offers.webp",
+      "katya-notices.webp",
+      "nina-leaves.webp",
+      "oleg-explains.webp"
+    ]
+  },
+  {
+    "file": "airport-terminal.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "imagegen, встроенный режим; промпт: Иллюстрации_редакция5_промпты.txt",
+    "references": [
+      "office-standing.webp",
+      "director-calls.webp"
+    ]
+  },
+  {
+    "file": "office-call-zone.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "imagegen, встроенный режим; промпт: Иллюстрации_редакция5_промпты.txt",
+    "references": [
+      "office-standing.webp",
+      "office-meeting.webp",
+      "vika-urges.webp"
+    ]
+  },
+  {
+    "file": "office-reflection.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "imagegen, встроенный режим; промпт: Иллюстрации_редакция5_промпты.txt",
+    "references": [
+      "office-standing.webp",
+      "office-meeting.webp",
+      "katya-notices.webp"
+    ]
+  },
+  {
+    "file": "client-office.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "cover-launch-alternative.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "map-call.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "map-pause.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "map-facts.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "map-plan.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  },
+  {
+    "file": "map-reconsider.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": false,
+    "source": "built-in imagegen / Правки4.docx"
+  }
+]

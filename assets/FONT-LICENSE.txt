@@ -1,0 +1,35 @@
+ROBOTO
+
+Copyright 2011 Google Inc. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+NOTO SERIF
+
+Copyright 2012 Google Inc. All Rights Reserved.
+
+Monotype Imaging Inc.
+
+Licensed under the Apache License, Version 2.0
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+ROBOTO SLAB (unused legacy asset)
+
+Copyright 2018 The Roboto Slab Project Authors (https://github.com/googlefonts/robotoslab)
+
+Licensed under the Apache License, Version 2.0
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+CAVEAT (unused legacy asset)
+
+Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)
+
+Pablo Impallari
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+http://scripts.sil.org/OFL
