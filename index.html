@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#161719">
+  <meta name="description" content="Интерактивный курс о принятии решений под давлением. Один вечер, один этаж офиса, запуск рассылки и решения, которые принимаешь ты.">
+  <title>Нужно было вчера — интерактивный курс</title>
+  <link rel="stylesheet" href="assets/fonts.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="app" id="app">
+    <div class="backdrop" id="backdrop" aria-hidden="true"></div>
+    <header class="topbar">
+      <div class="wordmark"><svg class="urgent-mark" viewBox="0 0 64 64" fill="none" aria-hidden="true"><path d="M39 21a23 23 0 1 0 6 34" stroke="currentColor" stroke-width="3.8" stroke-linecap="round"/><path d="M41 19c-1-7 4-11 8-10M49 3v3M55 9h4M53 5l3-3M29 23v17l-10 5" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><path d="m10 38 3 1M16 22l2 2M30 57v-3" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/><path d="m46 24 17 29H29l17-29Z" fill="#161719" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/><path d="M46 34v8M46 47h.01" stroke="currentColor" stroke-width="3.4" stroke-linecap="round"/></svg><span><small>Курс на тему</small>ПРИНЯТИЕ РЕШЕНИЙ ПОД ДАВЛЕНИЕМ</span></div>
+      <div class="top-actions">
+        <span class="location" id="location">Запуск «Вольта»</span>
+        <span class="clock" id="clock" aria-label="Время в сценарии">16:50</span>
+        <button class="icon-button" id="notebook-btn" title="Открыть блокнот" aria-label="Открыть блокнот"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M5 3h14v18H5V3Z"/><path d="M3 6h4M3 10h4M3 14h4M3 18h4M10 7h6M10 11h6M10 15h4" stroke-linecap="round"/></svg><span class="notebook-label">Блокнот</span><span class="count" id="note-count">0/4</span></button>
+        <button class="icon-button" id="sound-btn" aria-label="Выключить звук" aria-pressed="true" title="Выключить звук"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M3 9h4l5-4v14l-5-4H3V9Z"/><path class="sound-waves" d="M16 8c2 2 2 6 0 8M19 5c4 4 4 10 0 14"/><path class="sound-slash" d="m3 3 18 18"/></svg></button>
+        <button class="icon-button" id="settings-btn" title="Настройки курса" aria-label="Настройки курса"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M19.11 9.05L21.85 10.26L21.85 13.74L19.11 14.95L19.11 14.95L20.19 17.74L17.74 20.19L14.95 19.11L14.95 19.11L13.74 21.85L10.26 21.85L9.05 19.11L9.05 19.11L6.26 20.19L3.81 17.74L4.89 14.95L4.89 14.95L2.15 13.74L2.15 10.26L4.89 9.05L4.89 9.05L3.81 6.26L6.26 3.81L9.05 4.89L9.05 4.89L10.26 2.15L13.74 2.15L14.95 4.89L14.95 4.89L17.74 3.81L20.19 6.26L19.11 9.05Z" stroke-linejoin="round"/><circle cx="12" cy="12" r="3.5"/></svg></button>
+        <button class="icon-button help-button" id="help-btn" title="Как проходить курс" aria-label="Как проходить курс"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9 9a3 3 0 0 1 6 0c0 2-3 2-3 4M12 17h.01"/></svg></button>
+      </div>
+    </header>
+    <main class="scene" id="scene" tabindex="-1" aria-label="Текущая сцена курса"></main>
+    <footer class="footer">
+      <button class="map-button" id="map-btn" title="Открыть общую картину запуска" aria-label="Открыть общую картину запуска"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2V5ZM9 3v16M15 5v16"/></svg><span>Ход запуска</span></button>
+      <span id="chapter-label" hidden></span>
+      <nav class="progress" aria-label="Прогресс курса" id="progress"></nav>
+      <button class="resume-button" id="resume-btn" hidden>К прохождению</button>
+    </footer>
+  </div>
+  <div class="modal-layer" id="modal-layer" hidden></div>
+  <div class="sr-only" id="live" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">Для прохождения курса включите JavaScript в браузере.</div></noscript>
+</body>
+</html>
